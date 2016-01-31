@@ -1,0 +1,6 @@
+c:\users\j\documents\visual studio 2013\Projects\VEngine\VEngine\bin\VEngine.dll.config
+c:\users\j\documents\visual studio 2013\Projects\VEngine\VEngine\bin\VEngine.dll
+c:\users\j\documents\visual studio 2013\Projects\VEngine\VEngine\bin\VEngine.pdb
+c:\users\j\documents\visual studio 2013\Projects\VEngine\VEngine\obj\Debug\VEngine.dll
+c:\users\j\documents\visual studio 2013\Projects\VEngine\VEngine\obj\Debug\VEngine.pdb
+c:\users\j\documents\visual studio 2013\Projects\VEngine\VEngine\obj\Debug\VEngine.csprojResolveAssemblyReference.cache

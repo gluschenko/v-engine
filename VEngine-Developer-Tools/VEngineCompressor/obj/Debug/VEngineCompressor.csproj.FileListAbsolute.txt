@@ -1,0 +1,7 @@
+c:\users\j\documents\visual studio 2013\Projects\VEngineCompressor\VEngineCompressor\bin\Debug\VEngineCompressor.exe.config
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineCompressor\bin\Debug\VEngineCompressor.exe.config
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineCompressor\bin\Debug\VEngineCompressor.exe
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineCompressor\bin\Debug\VEngineCompressor.pdb
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineCompressor\obj\Debug\VEngineCompressor.exe
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineCompressor\obj\Debug\VEngineCompressor.pdb
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineCompressor\obj\Debug\VEngineCompressor.csprojResolveAssemblyReference.cache

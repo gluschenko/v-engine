@@ -1,0 +1,4 @@
+code_folder=\engine
+js_loader=\Loader.js
+loader_const=_FILES
+output_dir=\output

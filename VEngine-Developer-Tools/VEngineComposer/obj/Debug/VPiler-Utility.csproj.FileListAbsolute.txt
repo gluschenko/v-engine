@@ -1,0 +1,8 @@
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Debug\VPiler-Utility.exe.config
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\obj\Debug\VPiler-Utility.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Debug\VPiler-Utility.exe
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Debug\VPiler-Utility.pdb
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Debug\EcmaScript.NET.modified.dll
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Debug\Yahoo.Yui.Compressor.dll
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\obj\Debug\VPiler-Utility.exe
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\obj\Debug\VPiler-Utility.pdb

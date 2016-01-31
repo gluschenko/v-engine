@@ -1,0 +1,4 @@
+assets_folder=\engine\game\assets
+output_folder=\engine\game\auto
+assets_const=_ASSETS
+output_js=\Base64Files.js

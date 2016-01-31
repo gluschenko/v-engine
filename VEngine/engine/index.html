@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <script src="Loader.js"></script> <!--Запуск-->
+
+    <script>
+        //Хак. Страктуру массива менять зависимо от входной. Токен отсюда: likescope.ru/_vengine/?dev=k-DMT
+        var _UserData = new Object();
+        _UserData['id'] = 1;
+        _UserData['viewer_id'] = 1;
+        _UserData['platform'] = "std";
+        _UserData['token'] = "5e3dba0061103eabcaa6d1b70055e764";
+        _UserData['first_name'] = 'Engine';
+        _UserData['last_name'] = 'Developer';
+        _UserData['avatar'] = '';
+        _UserData['friends'] = '';
+
+        console.log(_UserData);
+        //
+        var isSent = false;
+
+        var Interval = setInterval(function () {
+            if (typeof Engine == "object") {
+                if (Engine.isRunning && !isSent) {
+                    SetUserData(_UserData);
+                    isSent = true;
+                    //
+                    console.log("SetUserData");
+                }
+            }
+        }, 100);
+
+        /*setTimeout(function () {
+            SetUserData(_UserData);
+        }, 1000);*/
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>V Engine</title>
+
+    <style>
+        body {
+            user-select: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            margin: 0;
+            text-align: center;
+            background-color: #333;
+        }
+
+        .device {
+            cursor: default;
+            background-color: #000;
+        }
+
+        .text {
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="text">V Engine |<a class="text" href="#" onclick="Screen.toggleFullscreen();">Full Screen</a></div>
+
+    <canvas id="device" class="device" width="950" height="600" oncontextmenu="return false;"></canvas>
+</body>
+</html>

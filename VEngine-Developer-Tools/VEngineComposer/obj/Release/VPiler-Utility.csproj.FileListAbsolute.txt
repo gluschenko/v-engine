@@ -1,0 +1,9 @@
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Release\VPiler-Utility.exe.config
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Release\VPiler-Utility.exe
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Release\VPiler-Utility.pdb
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Release\EcmaScript.NET.modified.dll
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Release\Yahoo.Yui.Compressor.dll
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\obj\Release\VPiler-Utility.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\obj\Release\VPiler-Utility.exe
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\obj\Release\VPiler-Utility.pdb
+c:\users\j\documents\visual studio 2013\Projects\VPiler-Utility\VPiler-Utility\bin\Release\JSOLib.dll

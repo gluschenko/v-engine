@@ -1,0 +1,11 @@
+C:\Users\j\Documents\Visual Studio 2013\Projects\AnvilEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\VPiler-Utility.exe.config
+C:\Users\j\Documents\Visual Studio 2013\Projects\AnvilEngine\VEngine-Developer-Tools\VEngineComposer\obj\Debug\VPiler-Utility.exe
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\EcmaScript.NET.modified.dll
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\JSOLib.dll
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\obj\Debug\VEngineComposer.csprojResolveAssemblyReference.cache
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\VEngineComposer.exe.config
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\VEngineComposer.exe
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\bin\Debug\VEngineComposer.pdb
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\obj\Debug\VEngineComposer.exe
+C:\Users\j\Documents\visual studio 2013\Projects\VEngine\VEngine-Developer-Tools\VEngineComposer\obj\Debug\VEngineComposer.pdb
