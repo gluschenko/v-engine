@@ -1,5 +1,5 @@
 # V-Engine
-JavaScript framework for HTML5 applications (RUS, ENG).<br/>
+My JavaScript game engine<br/>
 Screenshots:<br/>
 <center>
 <img style='width: 300px;' src='https://raw.githubusercontent.com/Gluschenko/V-Engine/master/Demo/Screen_1.jpg'/>
